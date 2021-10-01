@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    margin-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(163, 163, 163);
 }
@@ -95,4 +96,9 @@ footer {
   
 #footer-content {
     background: rgb(104, 103, 103);
+}
+
+.justificar {
+    text-align: justify;
+    text-justify: inter-word;
 }
